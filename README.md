@@ -47,4 +47,5 @@ Use verify [file] to test your solution and see how it does. When you are finish
 
 # Solution
 
-I created a dictionairy with all characters in the alphabet linked to their respective [braille-code](https://www.pharmabraille.com/pharmaceutical-braille/the-braille-alphabet/) counterpart and then looped all chararacters from the input string in my function. 
+I created a dictionary with all characters in the alphabet linked to their respective [braille-code](https://www.pharmabraille.com/pharmaceutical-braille/the-braille-alphabet/) counterpart and then looped all chararacters from the input string in my function. 
+
